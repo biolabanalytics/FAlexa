@@ -1,0 +1,2 @@
+const SpeechRecognition = SpeechRecognition || webkitSpeechRecognition;
+
